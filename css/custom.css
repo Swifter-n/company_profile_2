@@ -1,0 +1,199 @@
+header {
+  width: 100%;
+  background-color: #1B1464;
+}
+
+.navbar-default {
+  background: transparent;
+  border: none;
+  margin-top: -5%;
+  margin-left: auto;
+
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+  color: #fff;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+}
+
+#slider .uk-overlay {
+  padding: 0 5%;
+}
+
+#slider .uk-text-center {
+  font-size: 1em;
+}
+
+
+.drop h4 a {
+  text-decoration: none;
+  color: #1B1464;
+}
+
+.lists a {
+  color: #1B1464;
+  text-decoration: none;
+}
+
+.card-body h3 a {
+  text-decoration: none;
+  color: #1B1464;
+}
+
+#activity h3 a {
+  text-decoration: none;
+  color: #1B1464;
+}
+
+header .find {
+  margin-top: 5%;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fffa65;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 17px;
+}
+
+
+
+/**#cari{position: relative;left: 50%; margin-top: 2%;}**/
+
+
+.btn-primary {
+  background-color: #1B1464;
+}
+
+
+footer {
+  background: #1B1464;
+  max-width: 100%;
+  padding: 3% 12%;
+}
+
+footer p,
+address {
+  color: #fff;
+}
+
+iframe {
+  width: 100%
+}
+
+#kontak {
+  padding: 5%
+}
+
+#activity {
+  max-height: 100%;
+  margin: 5% auto;
+}
+
+#produk_line {
+  max-height: 100%;
+  padding: 2% 12%;
+  width: 100%;
+  background: #ecf0f1;
+}
+
+.card .no-gutters {
+  padding: 10px 0
+}
+
+.card img {
+  width: 100%;
+}
+
+#about {
+  max-height: 100%;
+  background-color: #ecf0f1;
+
+}
+
+#produk_line h2 {
+  color: #34495e;
+  margin-bottom: 5%;
+}
+
+#about h2,
+#activity h2 {
+  background: #1B1464;
+  width: 180px;
+  padding: 10px;
+  color: #f1c40f;
+  border-radius: 5px;
+  margin-top: 2%;
+
+}
+
+
+.blog .lists {
+  margin-top: 15%;
+}
+
+.blog,
+.profil {
+  padding: 5%
+}
+
+#detail {
+  padding: 5%;
+}
+
+#detail img {
+  height: 50%;
+}
+
+#produk {
+  height: auto;
+  padding: 5%;
+}
+
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 400px;
+  overflow: scroll;
+}
+
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover {
+  background-color: #1B1464;
+  color: #fffa65;
+}
+
+#produk_line h5 {
+  color: #fffa65
+}
